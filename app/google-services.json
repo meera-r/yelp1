@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506629201076",
+    "firebase_url": "https://yelp3-8c5bf.firebaseio.com",
+    "project_id": "yelp3-8c5bf",
+    "storage_bucket": "yelp3-8c5bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506629201076:android:cfabbf6d402cbe6f",
+        "android_client_info": {
+          "package_name": "com.example.hp.yelp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506629201076-q1h2sfdkluvp09uncfhi6g8vpq49t9cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.yelp3",
+            "certificate_hash": "d37da564e6f205b999d804e4520f79b43bb85840"
+          }
+        },
+        {
+          "client_id": "506629201076-ll9i54d717gglvrgek80ldo6q0dplqah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB_VEvr8RpQm6Ku8HT8IohSkxSf2Gf-ls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506629201076-ll9i54d717gglvrgek80ldo6q0dplqah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
